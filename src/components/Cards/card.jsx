@@ -12,7 +12,7 @@ const Card = (props) => {
       <p className='preco-inicial'>{props.oldPrice}</p>
       <p className='preco-promo'>{props.promo}</p>
       <p className='parcelas-card'>{props.parcelas}</p>
-      <Button btexto='Comprar' />
+      <Button texto='Comprar' />
     </div>
    );
 }
