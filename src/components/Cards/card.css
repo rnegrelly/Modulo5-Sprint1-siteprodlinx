@@ -1,0 +1,23 @@
+.card {
+ color: #888888
+}
+
+.imagem-prod {
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+  border: 1px solid #707070;
+  opacity: 1;
+  width: 100%;
+}
+
+.nome-prod {
+  font-size: 14px;
+}
+
+.descricao-prod, .preco-inicial {
+  font-size: 12px;
+}
+
+.preco-promo{
+  font-size: 16px;
+  font-weight: bold;
+}

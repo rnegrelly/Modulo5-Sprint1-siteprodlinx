@@ -1,0 +1,21 @@
+.formulario-cadastro {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  font-family: Helvetica Neue;
+}
+
+.radio-button {
+  display: flex;
+  width: 200px;
+  gap: 40px;
+  justify-content: flex-start;
+  color: #888888;
+  opacity: 1;
+  font-size: 12px;
+  font-family: Helvetica Neue;
+}
+
+.botaoForulario {
+  width: 340px;
+}
